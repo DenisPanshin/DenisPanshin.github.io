@@ -52,4 +52,4 @@
 
 ## 📈 GitHub статистика
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=irinawing&show_icons=true&theme=default)](https://github.com/DenisPanshin)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisPanshin&show_icons=true&theme=default)](https://github.com/DenisPanshin)
